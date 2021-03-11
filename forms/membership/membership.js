@@ -1,4 +1,4 @@
-
+/*
 let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 btnMember.onclick=function() {
@@ -8,6 +8,7 @@ lblMember.value = "You are already a member!"
   members.push(inptMember.value)
   lblMember.value = "You have been added as member."}
 }
+*/
 
 
 
